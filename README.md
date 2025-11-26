@@ -90,5 +90,7 @@ The notebook validates model consistency, compares pricing performance, and appl
 ___
 
 **Author**: Joseph Edet
+
 **Date**: November 2025  
+
 **License**: For educational and research purposes only. Not for production trading without rigorous validation.
